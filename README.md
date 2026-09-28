@@ -1,6 +1,6 @@
-# AMC Bank Day 13 — AI Enabled Java Full Stack Project
+# AMC Bank — AI Enabled Java Full Stack Project
 
-This project extends the final AMC Bank Java Full Stack application with a **secured Spring AI banking assistant**.
+This project extends bfsi project - AMC Bank Java Full Stack application with a **secured Spring AI banking assistant**.
 
 ## Stack
 
